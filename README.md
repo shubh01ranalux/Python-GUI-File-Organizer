@@ -4,7 +4,7 @@ This is a python GUI application which can be used to organize junk files in any
 # Manual Compiling of the Code
 Run the command `$pip install -r requirements.txt` before execution
 
-Then run the program `$python Files_Organizer.py`
+Then run the program `$python File_Organizer.py`
 
 # Once it Begins
 Click on Select Directory.
